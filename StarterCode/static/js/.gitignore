@@ -1,8 +1,7 @@
-```python
+*.js
 # Adding config.py file.
-app copy.js
+
 app copy 2.js
 app copy 3.js
 app copy 4.js
 app copy 5.js 
-```
