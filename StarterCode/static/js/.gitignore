@@ -1,0 +1,8 @@
+```python
+# Adding config.py file.
+app copy.js
+app copy2.js
+app copy3.js
+app copy4.js
+app copy5.js 
+```
