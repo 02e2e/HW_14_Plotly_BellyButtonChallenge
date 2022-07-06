@@ -160,7 +160,7 @@ function BuildGaugeChart(selected) {
         }
       ];
       
-      var layout = {
+      let layout = {
         title: {text:"Belly Button Washing Frequency",  font: {size:20}},
         margin: { t: 50, r: 25, l: 25, b: 25 },
         paper_bgcolor: "lavender",
